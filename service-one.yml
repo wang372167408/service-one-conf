@@ -1,3 +1,4 @@
-name: service-one
-age: 18
-sex: ax
+service:
+  name: service-one
+  age: 18
+  sex: asda
